@@ -27,8 +27,8 @@
         "sensio/distribution-bundle": "^5.0",
         "sensio/framework-extra-bundle": "^3.0.2",
         "incenteev/composer-parameter-handler": "^2.0",
-        "propel/propel": "~2.0@dev",
-        "propel/propel-bundle": "~2.0@dev"
+        "twbs/bootstrap": "v4.0.0-alpha.2",
+        "fabpot/goutte": "^3.1"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",
